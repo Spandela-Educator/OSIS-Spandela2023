@@ -31,3 +31,16 @@ section a {
 jumbotron text-center a {
   text-decoration: none;
 }
+
+
+.button-wrapper {
+  text-align: center;
+}
+
+.button-wrapper button {
+  
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+}
