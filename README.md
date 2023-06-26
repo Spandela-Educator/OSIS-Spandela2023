@@ -8,3 +8,5 @@ WEBSITE OSIS SMK PANCASILA 8 SLOGOHIMO Preode 2023
 - SMK HEBAT
 
 ### SPANDELA JAYA!
+### OPEN LIVE DEMO: https://osisspandela.000webhostapp.com/
+
